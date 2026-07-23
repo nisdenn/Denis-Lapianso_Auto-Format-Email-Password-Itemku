@@ -1,49 +1,51 @@
 # Auto Format Email Password Itemku
 
-A professional project for Auto Format Email Password Itemku.
+A professional Project built with Unknown.
 
 ## Screenshot
 
-![Placeholder](https://via.placeholder.com/800x400.png?text=Auto-Format-Email-Password-Itemku)
+![Auto Format Email Password Itemku](https://via.placeholder.com/800x400.png?text=Auto%20Format%20Email%20Password%20Itemku)
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Responsive Design
+- Modern UI/UX
+- Clean Code Architecture
 
 ## Tech Stack
 
-- TBD
+- **Core**: Unknown
+
 
 ## Folder Structure
 
-`
-+-- src/
-+-- docs/
-+-- .gitignore
-+-- README.md
-+-- LICENSE
-`
+```
+├── src/            # Source code
+├── docs/           # Project documentation (PRD, BRD, SRS)
+├── public/         # Static assets
+├── .gitignore      # Git ignored files
+├── README.md       # Project overview
+```
 
 ## Installation
 
-`ash
-git clone https://github.com/denislapianso/Denis-Lapianso_Auto-Format-Email-Password-Itemku.git
+```bash
+git clone https://github.com/nisdenn/Denis-Lapianso_Auto-Format-Email-Password-Itemku.git
 cd Denis-Lapianso_Auto-Format-Email-Password-Itemku
-`
+```
 
 ## Usage
 
-`ash
-# Add usage instructions here
-`
+```bash
+TBD
+```
 
-## Roadmap
+## Documentation
 
-- [ ] Add new features
-- [ ] Improve documentation
-- [ ] Release v1.0.0
+- [Product Requirements Document (PRD)](./docs/PRD.md)
+- [Business Requirements Document (BRD)](./docs/BRD.md)
+- [Software Requirements Specification (SRS)](./docs/SRS.md)
+- [Project Structure](./docs/PROJECT-STRUCTURE.md)
 
 ## Author
 

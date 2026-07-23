@@ -1,3 +1,5 @@
-# AI-ASSISTANT
+# AI Assistant Guidelines
 
-Document under construction.
+- Follow Clean Code principles.
+- Maintain the Unknown architecture.
+- Update README and docs when making significant feature changes.
